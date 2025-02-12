@@ -28,4 +28,4 @@ Notes
 3.Users with inconsistent Python versions may encounter version-related errors.\
 4.If you want to run the system on a GPU, modify main.py, cls/langchain_application.py, and gpt_service.py, and install the corresponding CUDA version.
 
-I hope this project is helpful to everyone，certainly，This project is a reproduction and modification based on the LangChain agent code from GitHub. If you have any suggestions or issues, feel free to discuss them with me through the issues section. Thank you!"
+I hope this project is helpful to everyone，certainly，This project is a reproduction and modification based on the LangChain code from GitHub. If you have any suggestions or issues, feel free to discuss them with me through the issues section. Thank you!"
