@@ -1,0 +1,14 @@
+accelerate==1.3.0
+duckduckgo_search==2.9.0
+gensim==4.3.3
+gradio==5.16.0
+langchain==0.3.18
+langchain_community==0.3.17
+Markdown==3.7
+mdtex2html==1.3.1
+OpenCC==1.1.9
+Pygments==2.19.1
+tqdm==4.67.1
+transformers==4.33.2
+zhconv==1.4.3
+sentence-transformers==2.3.0
