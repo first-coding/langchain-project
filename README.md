@@ -5,6 +5,12 @@ This project implements an intelligent Q&A system based on LangChain, FAISS, and
 - **File Search**: Supports file uploads, vectorizes the files, and performs semantic search using FAISS to find relevant content.
 - **LLM-based Q&A**: The system utilizes LLM to generate answers based on the retrieved information and context.
 
+### Show program
+Below are some screenshots demonstrating how the project looks when running:
+
+![](./img/1.png)
+![](./img/2.png)
+
 ### Installation
 
 ### Clone the repository
@@ -32,4 +38,4 @@ python main.py
 4.If you want to run the system on a GPU, modify main.py, cls/langchain_application.py, and gpt_service.py, and install the corresponding CUDA version.
 
 ### Suggestions and Issues
-I hope this project is helpful to everyone，certainly，This project is a reproduction and modification based on the LangChain code from GitHub. If you have any suggestions or issues, feel free to discuss them with me through the issues section. Thank you!"
+I hope this project is helpful to everyone，certainly，This project is a reproduction and modification based on the LangChain code from GitHub. If you have any suggestions or issues, feel free to discuss them with me through the issues section. Thank you!
